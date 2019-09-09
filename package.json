@@ -1,11 +1,19 @@
 {
-  "name": "publish-test",
+  "name": "@bergalv/publish-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bergalv/publish-test.git"
+  },
+  "author": "bergalv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bergalv/publish-test/issues"
+  },
+  "homepage": "https://github.com/bergalv/publish-test#readme"
 }
