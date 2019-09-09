@@ -1,7 +1,6 @@
 {
-  "name": "@bergalv/publish-test",
-  "version": "1.0.0",
-  "description": "",
+  "name": "bergalv-publish-test",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/bergalv/publish-test/issues"
   },
-  "homepage": "https://github.com/bergalv/publish-test#readme"
+  "homepage": "https://github.com/bergalv/publish-test#readme",
+  "description": ""
 }
